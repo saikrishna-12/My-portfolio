@@ -21,7 +21,7 @@ function Certifications() {
       name: 'HTML and CSS in depth',
       link: 'https://www.coursera.org/account/accomplishments/certificate/JAF9UCHAKF5E',
       certificateId: 'JAF9UCHAKF5E',
-      logo: 'https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg', // Add the logo file name or URL
+      logo: 'https://achievement-images.teamtreehouse.com/badges_intro_to_html_css_stage-01.png', // Add the logo file name or URL
     },
     {
       name: 'Version Control',
